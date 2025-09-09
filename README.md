@@ -16,7 +16,7 @@ The dataset is cleaned, transformed, and explored to extract meaningful insights
 The project is organized into three separate Jupyter Notebooks:
 
 1. **Data Cleaning**  
-   Handles duplicates, missing values, formatting issues, and type conversions.
+   Identifyes and handles (in a preliminary approach) duplicates and missing values; Formatting issues; type conversions.
 
 2. **Feature Engineering**  
    Creates structured variables from raw data (e.g., standardized versioning, install counts, size in MB).
